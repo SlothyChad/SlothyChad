@@ -1,6 +1,6 @@
-
-## Hi there 👋, my name is Chad
+### Hi there 👋, my name is Chad
 #### I am a programmer and a Cyber Security enthusiast.
+![I am a programmer and a Cyber Security enthusiast.](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 I'm a Python programmer with a strong interest in Cyber Security. I love solving problems with code, building secure applications, and exploring the latest in security research. I'm always learning new techniques to protect systems and data while improving my development skills.
 
